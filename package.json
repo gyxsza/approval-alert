@@ -1,6 +1,6 @@
 {
   "name": "@gyxsza/approval-alert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plays a sound and shows a system notification when DeepSeek Harness asks for permission approval.",
   "type": "module",
   "main": "index.js",
