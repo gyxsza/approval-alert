@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Approval Alert",
+    "description": "Plays a sound and shows a system notification when a permission approval is requested."
+  }
+}
